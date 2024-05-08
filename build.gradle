@@ -13,7 +13,7 @@ plugins {
   id 'com.github.spotbugs' version '6.0.5' apply false
   id 'io.freefair.maven-optional' version "${freefairVersion}"
   id 'com.github.jk1.dependency-license-report' version '2.5'
-  id 'io.spring.dependency-management' version '1.1.4' apply false
+  id 'io.spring.dependency-management' version '1.1.5' apply false
 
   id 'io.spring.nohttp' version '0.0.11'
   id 'io.freefair.javadoc-links' version "${freefairVersion}"
